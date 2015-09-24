@@ -1,6 +1,6 @@
 # knowho
 
-Easy way to know about your followers and unfollowers in the most famous social networkings.
+Way to know about your followers and unfollowers in the most famous social networkings.
 
 ## Run
 
