@@ -1,5 +1,7 @@
 # knowho
 
+Easy way to know about your followers and unfollowers in the most famous social networkings.
+
 ## Run
 
 `npm install && gulp dev`
