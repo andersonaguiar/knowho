@@ -10,7 +10,7 @@
   "devDependencies": {
     "browser-sync": "^2.9.6"
   },
-  "description": "know yours followers and unfollowers",
+  "description": "Way to know about your followers and unfollowers in the most famous social networkings.",
   "version": "0.0.1",
   "main": "index.js",
   "directories": {
