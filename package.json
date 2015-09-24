@@ -1,0 +1,37 @@
+{
+  "name": "knowho",
+  "dependencies": {
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-nodemon": "^2.0.4",
+    "passport": "^0.3.0",
+    "passport-twitter": "^1.0.3"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.9.6"
+  },
+  "description": "know yours followers and unfollowers",
+  "version": "0.0.1",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andersonaguiar/knowho.git"
+  },
+  "keywords": [
+    "facebook friend",
+    "twitter follow",
+    "instagram follow",
+    "github follow",
+    "follower"
+  ],
+  "author": "andersonaguiar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andersonaguiar/knowho/issues"
+  },
+  "homepage": "https://github.com/andersonaguiar/knowho#readme"
+}
